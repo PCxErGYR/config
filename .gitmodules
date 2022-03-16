@@ -1,0 +1,3 @@
+[submodule "yabai"]
+	path = yabai
+	url = git@github.com:kunpehx/yabai.git
