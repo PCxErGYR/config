@@ -1,3 +1,6 @@
 [submodule "yabai"]
 	path = yabai
 	url = git@github.com:kunpehx/yabai.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:kunpehx/nvim.git
